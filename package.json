@@ -4,6 +4,7 @@
   "description": "Set of useful and fun commands for your Discord use",
   "main": "index.js",
   "scripts": {
+    "start": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
