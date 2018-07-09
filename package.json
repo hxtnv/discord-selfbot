@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/theneuetimes/discord-selfbot/issues"
   },
-  "homepage": "https://github.com/theneuetimes/discord-selfbot#readme"
+  "homepage": "https://github.com/theneuetimes/discord-selfbot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
 }
