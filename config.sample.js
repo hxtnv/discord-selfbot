@@ -1,4 +1,4 @@
 module.exports = {
-	token: '',
-	prefix: '!'
+  token: 'YOUR TOKEN HERE',
+  prefix: '!'
 }
