@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/theneuetimes/discord-selfbot#readme",
   "dependencies": {
-    "discord.js": "^11.3.2"
+    "discord.js": "^11.3.2",
+    "https": "^1.0.0"
   }
 }
