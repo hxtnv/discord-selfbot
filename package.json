@@ -1,0 +1,24 @@
+{
+  "name": "discord-selfbot",
+  "version": "1.0.0",
+  "description": "Set of useful and fun commands for your Discord use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theneuetimes/discord-selfbot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "selfbot"
+  ],
+  "author": "theneuetimes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theneuetimes/discord-selfbot/issues"
+  },
+  "homepage": "https://github.com/theneuetimes/discord-selfbot#readme"
+}
