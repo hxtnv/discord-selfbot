@@ -28,8 +28,8 @@ If you wish to change a command, you can do so in the `aliases.js` file.
 For example, if you wish to rename the `avatar` command to `picture` you can do it by changing the file from:
 ```
 module.exports = {
-	'avatar': 'avatar',
-	...
+  'avatar': 'avatar',
+  ...
 }
 ```
 
@@ -37,7 +37,7 @@ to
 
 ```
 module.exports = {
-	'avatar': 'avi',
-	...
+  'avatar': 'picture',
+  ...
 }
 ```
