@@ -13,11 +13,11 @@ Rename `config.sample.js` to `config.js` and update it with your token.
 After you add your token, run the bot with `npm start`.
 
 
-## Commands and usage
+## Features
 
-`!avatar @mention` Responds with the profile picture of mentioned user
+`!avatar @mention` - Responds with the profile picture of mentioned user
 
-`!ping` Test command - replies with "pong"
+`/r/subreddit` - Converts `/r/subreddit` to a link `https://reddit.com/r/subreddit`
 
 `[amount] [original currency] ([currency to convert to)]` - Converts the currency while also keeping the original message intact. Example usage: `100 PLN (GBP)`
 
