@@ -13,6 +13,14 @@ client.on('ready', () => {
 });
 
 client.on('message', msg => {
+   // subreddit detect
+  // msg.content.replace(/\/r/g, "https://reddit.com/r");
+  if(/\/r/g.test(msg.content)) {
+    let _msg = msg.content.replace(/\/r/g, "https://reddit.com/r");
+
+    msg.edit(_msg).catch(e => msg.channel.send(_msg));
+  }
+
   // currency converter
   let currency = includes(msg.content, currencies);
 
